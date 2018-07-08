@@ -1,0 +1,6 @@
+framework module VGLib {
+  umbrella header "VGLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
